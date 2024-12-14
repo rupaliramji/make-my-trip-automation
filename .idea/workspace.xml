@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30558e2d-4174-4184-8299-de7fc22c52be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crossbrowsertestng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/myTripPageObject/base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/myTripPageObject/searchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/myTripTestcase/TC_SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/myTripTestcase/testBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/myTripUtility/readConfigFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/myTripUtility/utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2pgTQiZgwgyDrsNO4WSFmGVMqsV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/rupaliramji/IdeaProjects/rupali/Etravel&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/rupaliramji/IdeaProjects/rupali/Etravel/src/main/java/org/example/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/rupaliramji/IdeaProjects/rupali/Etravel/crossbrowsertestng.xml">
+    <configuration name="TC_SearchPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Etravel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myTripTestcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myTripTestcase" />
+      <option name="MAIN_CLASS_NAME" value="myTripTestcase.TC_SearchPage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_SearchPage.searchflight" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Etravel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myTripTestcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myTripTestcase" />
+      <option name="MAIN_CLASS_NAME" value="myTripTestcase.TC_SearchPage" />
+      <option name="METHOD_NAME" value="searchflight" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/rupaliramji/IdeaProjects/rupali/Etravel/crossbrowsertestng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Etravel" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/crossbrowsertestng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/rupaliramji/IdeaProjects/rupali/Etravel/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Etravel" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter2" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="readConfigFile.getbrowser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Etravel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myTripUtility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myTripUtility" />
+      <option name="MAIN_CLASS_NAME" value="myTripUtility.readConfigFile" />
+      <option name="METHOD_NAME" value="getbrowser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG./Users/rupaliramji/IdeaProjects/rupali/Etravel/crossbrowsertestng.xml" />
+      <item itemvalue="TestNG./Users/rupaliramji/IdeaProjects/rupali/Etravel/testng.xml" />
+      <item itemvalue="TestNG.readConfigFile.getbrowser" />
+      <item itemvalue="TestNG.TC_SearchPage" />
+      <item itemvalue="TestNG.TC_SearchPage.searchflight" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/rupaliramji/IdeaProjects/rupali/Etravel/crossbrowsertestng.xml" />
+        <item itemvalue="TestNG./Users/rupaliramji/IdeaProjects/rupali/Etravel/testng.xml" />
+        <item itemvalue="TestNG.TC_SearchPage" />
+        <item itemvalue="TestNG.TC_SearchPage.searchflight" />
+        <item itemvalue="TestNG.readConfigFile.getbrowser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30558e2d-4174-4184-8299-de7fc22c52be" name="Changes" comment="" />
+      <created>1733186705028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733186705028</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/myTripTestcase/TC_SearchPage.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/myTripPageObject/searchPage.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/myTripTestcase/TC_SearchPage.java</url>
+          <line>13</line>
+          <properties class="myTripTestcase.TC_SearchPage" method="searchflight">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="/Users/rupaliramji/IdeaProjects/rupali/Etravel(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="myTripTestcase.TC_SearchPage">
+        <methods>
+          <include name="searchflight"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- myTripTestcase.TC_SearchPage -->
+    </classes>
+  </test> <!-- /Users/rupaliramji/IdeaProjects/rupali/Etravel(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
